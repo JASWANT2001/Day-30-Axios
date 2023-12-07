@@ -11,11 +11,7 @@ A simple CRUD (Create, Read, Update, Delete) application built using React and A
 
 ## Live Demo
 
-Check out the live demo of the project: [CRUD Using Axios Demo](https://crud-using-axios-guvi.netlify.app/)
-
-## Screenshots
-
-<img src='./public/app_preview.png'/>
+Check out the live demo of the project: [CRUD Using Axios Demo]()
 
 ## Installation and Setup
 
@@ -53,7 +49,3 @@ Contributions are welcome! If you find any issues or want to add new features, f
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Contact
-
-If you have any questions or feedback, feel free to contact me at shanmugamrskfamily@gmail.com.
